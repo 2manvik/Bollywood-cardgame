@@ -1,0 +1,114 @@
+.gameplay-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  max-width: 850px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.disconnect-alert {
+  background: rgba(239, 68, 68, 0.2);
+  border: 1px solid var(--accent-red);
+  color: #fca5a5;
+  padding: 0.75rem 1.25rem;
+  border-radius: var(--radius-md);
+  font-weight: 600;
+  text-align: center;
+}
+
+.game-arena {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 2rem;
+  position: relative;
+}
+
+.waiting-for-round {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  padding: 3rem 1rem;
+  color: var(--text-secondary);
+}
+
+.waiting-icon {
+  font-size: 3rem;
+  animation: floatAnim 1.5s ease-in-out infinite;
+}
+
+.resolution-banner {
+  width: 100%;
+  border-radius: var(--radius-lg);
+  padding: 1.25rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  text-align: center;
+}
+
+.win-resolution {
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.25) 0%, rgba(6, 182, 212, 0.25) 100%);
+  border: 2px solid var(--accent-green);
+  color: #6ee7b7;
+  box-shadow: 0 0 25px rgba(16, 185, 129, 0.3);
+}
+
+.timeout-resolution {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.2) 0%, rgba(239, 68, 68, 0.2) 100%);
+  border: 2px solid var(--accent-amber);
+  color: #fde68a;
+  box-shadow: 0 0 25px rgba(245, 158, 11, 0.2);
+}
+
+.res-icon {
+  font-size: 2.25rem;
+}
+
+.res-title {
+  font-size: 1.3rem;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+}
+
+.res-answer {
+  font-size: 1.1rem;
+  margin-top: 0.25rem;
+}
+
+.res-answer strong {
+  color: #ffffff;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.next-round-cue {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  margin-top: 0.5rem;
+  font-style: italic;
+}
+
+.guess-feedback {
+  background: rgba(239, 68, 68, 0.2);
+  border: 1px solid rgba(239, 68, 68, 0.4);
+  color: #fca5a5;
+  padding: 0.5rem 1rem;
+  border-radius: var(--radius-md);
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.answer-section {
+  width: 100%;
+}
+
+@media (max-width: 640px) {
+  .game-arena {
+    padding: 1.25rem;
+  }
+}

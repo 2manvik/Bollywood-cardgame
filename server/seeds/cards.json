@@ -1,0 +1,804 @@
+[
+  {
+    "category": "bollywood_movies",
+    "clue": "🚂 ❤️ 👰 🌾",
+    "answer": "Dilwale Dulhania Le Jayenge",
+    "acceptedAnswers": [
+      "DDLJ",
+      "Dilwale Dulhaniya Le Jayenge",
+      "Dilwale Dulhania Le Jayenge"
+    ],
+    "difficulty": "easy",
+    "hint": "Raj and Simran fall in love during a Europe trip.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "🎓 🏫 👬 🤓",
+    "answer": "3 Idiots",
+    "acceptedAnswers": [
+      "3 Idiots",
+      "Three Idiots",
+      "3 idiots movie"
+    ],
+    "difficulty": "easy",
+    "hint": "Three engineering students and the phrase 'All is well'.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "🤼‍♀️ 🥇 👨‍👧‍👧",
+    "answer": "Dangal",
+    "acceptedAnswers": [
+      "Dangal",
+      "Dangal movie",
+      "Aamir Khan Dangal"
+    ],
+    "difficulty": "easy",
+    "hint": "A father trains his daughters to become wrestling champions.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "🤠 🔫 🐴 🏜️",
+    "answer": "Sholay",
+    "acceptedAnswers": [
+      "Sholay",
+      "Sholay movie",
+      "Jai Veeru Sholay"
+    ],
+    "difficulty": "easy",
+    "hint": "Jai, Veeru and Gabbar Singh.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "👨‍👩‍👦 ❤️ 🏠",
+    "answer": "Kabhi Khushi Kabhie Gham",
+    "acceptedAnswers": [
+      "K3G",
+      "Kabhi Khushi Kabhie Gham",
+      "Kabhi Khushi Kabhi Gham",
+      "Kabhi Khushi Kabhie Gham movie"
+    ],
+    "difficulty": "easy",
+    "hint": "A family drama with the line 'It's all about loving your parents'.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "🏀 ❤️ 💌 🎓",
+    "answer": "Kuch Kuch Hota Hai",
+    "acceptedAnswers": [
+      "KKHH",
+      "Kuch Kuch Hota Hai",
+      "Kuch Kuch Hota Hai movie"
+    ],
+    "difficulty": "easy",
+    "hint": "Rahul, Anjali and Tina in a college love story.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "🚆 👩 ❤️ 🧔",
+    "answer": "Jab We Met",
+    "acceptedAnswers": [
+      "Jab We Met",
+      "JWM",
+      "Jab We Met movie"
+    ],
+    "difficulty": "easy",
+    "hint": "Geet meets Aditya on a train.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "🏔️ 🎒 💃 ❤️",
+    "answer": "Yeh Jawaani Hai Deewani",
+    "acceptedAnswers": [
+      "YJHD",
+      "Yeh Jawaani Hai Deewani",
+      "Ye Jawani Hai Deewani",
+      "Yeh Jawani Hai Deewani"
+    ],
+    "difficulty": "easy",
+    "hint": "Bunny and Naina; a trip, friendship and romance.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "🇪🇸 🚗 🪂 🍅",
+    "answer": "Zindagi Na Milegi Dobara",
+    "acceptedAnswers": [
+      "ZNMD",
+      "Zindagi Na Milegi Dobara",
+      "Zindagi Na Milegi Dobara movie"
+    ],
+    "difficulty": "easy",
+    "hint": "Three friends go on a road trip in Spain.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "👽 📡 ❓ 🛸",
+    "answer": "PK",
+    "acceptedAnswers": [
+      "PK",
+      "P.K.",
+      "PeeKay",
+      "PK movie",
+      "Aamir Khan PK"
+    ],
+    "difficulty": "easy",
+    "hint": "An alien searches for his lost remote.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "🩺 🏥 🤗 👨‍⚕️",
+    "answer": "Munna Bhai M.B.B.S.",
+    "acceptedAnswers": [
+      "Munna Bhai MBBS",
+      "Munna Bhai M.B.B.S.",
+      "Munnabhai MBBS",
+      "Munna Bhai"
+    ],
+    "difficulty": "easy",
+    "hint": "A gangster pretends to be a doctor; famous for 'jadoo ki jhappi'.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "⭐ 🌍 🧒 🎨",
+    "answer": "Taare Zameen Par",
+    "acceptedAnswers": [
+      "Taare Zameen Par",
+      "Taare Zamin Par",
+      "TZP",
+      "Taare Zameen Par movie"
+    ],
+    "difficulty": "easy",
+    "hint": "Ishaan and his art teacher discover every child is special.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "👰 💔 ✈️ 👑",
+    "answer": "Queen",
+    "acceptedAnswers": [
+      "Queen",
+      "Queen movie",
+      "Kangana Ranaut Queen"
+    ],
+    "difficulty": "easy",
+    "hint": "Rani travels alone after her wedding is called off.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "🚂 🌴 ❤️ 😂",
+    "answer": "Chennai Express",
+    "acceptedAnswers": [
+      "Chennai Express",
+      "Chennai express movie"
+    ],
+    "difficulty": "easy",
+    "hint": "Rahul meets Meenamma on a trip to South India.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "👓 😂 🏠 🤫",
+    "answer": "Golmaal",
+    "acceptedAnswers": [
+      "Golmaal",
+      "Golmaal Fun Unlimited",
+      "Golmaal: Fun Unlimited",
+      "Golmaal movie"
+    ],
+    "difficulty": "easy",
+    "hint": "Four friends hide in a house and create chaos.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "📞 💰 😂 🐟",
+    "answer": "Hera Pheri",
+    "acceptedAnswers": [
+      "Hera Pheri",
+      "Hera Pheri movie",
+      "Raju Shyam Baburao"
+    ],
+    "difficulty": "easy",
+    "hint": "Raju, Shyam and Baburao get caught up in a wrong-number call.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "🗽 ❤️ 😢 🌅",
+    "answer": "Kal Ho Naa Ho",
+    "acceptedAnswers": [
+      "Kal Ho Naa Ho",
+      "Kal Ho Na Ho",
+      "KHNH",
+      "Kal Ho Naa Ho movie"
+    ],
+    "difficulty": "easy",
+    "hint": "Aman changes Naina's life in New York.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "🏑 🇮🇳 🏆 👩",
+    "answer": "Chak De! India",
+    "acceptedAnswers": [
+      "Chak De India",
+      "Chak De! India",
+      "Chak De India movie"
+    ],
+    "difficulty": "easy",
+    "hint": "A coach leads India's women's hockey team.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "🏖️ 👬 👬 🚗",
+    "answer": "Dil Chahta Hai",
+    "acceptedAnswers": [
+      "Dil Chahta Hai",
+      "DCH",
+      "Dil Chahta Hai movie"
+    ],
+    "difficulty": "easy",
+    "hint": "Three friends, Goa and growing up.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "🦸‍♂️ ⚡ 🖤 🏙️",
+    "answer": "Krrish",
+    "acceptedAnswers": [
+      "Krrish",
+      "Krish",
+      "Krrish movie"
+    ],
+    "difficulty": "easy",
+    "hint": "An Indian superhero wears a black mask.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "🐒 👧 🇮🇳 🇵🇰",
+    "answer": "Bajrangi Bhaijaan",
+    "acceptedAnswers": [
+      "Bajrangi Bhaijaan",
+      "Bajrangi Bhaijan",
+      "Bajrangi Bhaijaan movie"
+    ],
+    "difficulty": "easy",
+    "hint": "Pavan helps Munni return to her family in Pakistan.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "😂 👬 💎 🥸",
+    "answer": "Andaz Apna Apna",
+    "acceptedAnswers": [
+      "Andaz Apna Apna",
+      "Andaaz Apna Apna",
+      "AAA",
+      "Andaz Apna Apna movie"
+    ],
+    "difficulty": "easy",
+    "hint": "Amar and Prem compete to win a rich heiress.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "🏨 😂 🦜 🔫",
+    "answer": "Welcome",
+    "acceptedAnswers": [
+      "Welcome",
+      "Welcome movie",
+      "Uday Majnu Welcome"
+    ],
+    "difficulty": "easy",
+    "hint": "Uday Shetty and Majnu Bhai try to get into a respectable family.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "👨‍👩‍👧 📹 👮 🗓️",
+    "answer": "Drishyam",
+    "acceptedAnswers": [
+      "Drishyam",
+      "Drishyam movie",
+      "Ajay Devgn Drishyam"
+    ],
+    "difficulty": "easy",
+    "hint": "A father uses films and careful planning to protect his family.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "🎬 🔥 🔁 ⭐",
+    "answer": "Om Shanti Om",
+    "acceptedAnswers": [
+      "Om Shanti Om",
+      "OSO",
+      "Om Shanti Om movie"
+    ],
+    "difficulty": "easy",
+    "hint": "A junior artist is reborn as superstar Om Kapoor.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "👻 🏘️ 🌙 🚪",
+    "answer": "Stree",
+    "acceptedAnswers": [
+      "Stree",
+      "Stree movie",
+      "O Stree Kal Aana"
+    ],
+    "difficulty": "easy",
+    "hint": "A mysterious woman haunts a town and men disappear at night.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "🎤 🧢 🏙️ 🎶",
+    "answer": "Gully Boy",
+    "acceptedAnswers": [
+      "Gully Boy",
+      "Gullyboy",
+      "Gully Boy movie"
+    ],
+    "difficulty": "easy",
+    "hint": "Murad rises from Dharavi to become a rapper.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "🏏 🌾 🇮🇳 🇬🇧",
+    "answer": "Lagaan",
+    "acceptedAnswers": [
+      "Lagaan",
+      "Lagaan movie",
+      "Aamir Khan Lagaan"
+    ],
+    "difficulty": "easy",
+    "hint": "Villagers challenge the British to a cricket match.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "🏃 🥇 🇮🇳 💨",
+    "answer": "Bhaag Milkha Bhaag",
+    "acceptedAnswers": [
+      "Bhaag Milkha Bhaag",
+      "Bhaag Milkha Bhaag movie",
+      "BMB"
+    ],
+    "difficulty": "easy",
+    "hint": "A biopic about India's 'Flying Sikh'.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_movies",
+    "clue": "👻 🏰 💃 🔔",
+    "answer": "Bhool Bhulaiyaa",
+    "acceptedAnswers": [
+      "Bhool Bhulaiyaa",
+      "Bhool Bhulaiya",
+      "Bhool Bhulaiyaa movie"
+    ],
+    "difficulty": "easy",
+    "hint": "A palace, a psychiatrist and the mystery of Manjulika.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "🚂 💃 🕺 🔥",
+    "answer": "Chaiyya Chaiyya",
+    "acceptedAnswers": [
+      "Chaiyya Chaiyya",
+      "Chhaiya Chhaiya",
+      "Chaiya Chaiya",
+      "Chaiyya Chaiyya song"
+    ],
+    "difficulty": "easy",
+    "hint": "Shah Rukh Khan dances on a moving train in Dil Se.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "🌾 ❤️ 🎻 👩‍❤️‍👨",
+    "answer": "Tujhe Dekha To Yeh Jaana Sanam",
+    "acceptedAnswers": [
+      "Tujhe Dekha To Yeh Jaana Sanam",
+      "Tujhe Dekha Toh Ye Jana Sanam",
+      "Tujhe Dekha To Ye Jaana Sanam",
+      "Tujhe Dekha",
+      "DDLJ song"
+    ],
+    "difficulty": "easy",
+    "hint": "The iconic mustard-field song from DDLJ.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "💔 ❤️ 🌧️ 🎤",
+    "answer": "Tum Hi Ho",
+    "acceptedAnswers": [
+      "Tum Hi Ho",
+      "Tum Hi Ho song",
+      "Aashiqui 2 song",
+      "Hum Tere Bin Ab Reh Nahi Sakte"
+    ],
+    "difficulty": "easy",
+    "hint": "The romantic song from Aashiqui 2.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "💍 💔 🎤 🥀",
+    "answer": "Channa Mereya",
+    "acceptedAnswers": [
+      "Channa Mereya",
+      "Channa Mereya song",
+      "Channa Mereya Arijit Singh"
+    ],
+    "difficulty": "easy",
+    "hint": "Arijit Singh sings at a wedding in Ae Dil Hai Mushkil.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "🎉 🕺 🥂 😎",
+    "answer": "Badtameez Dil",
+    "acceptedAnswers": [
+      "Badtameez Dil",
+      "Badtameez Dil song",
+      "Badtameez Dil Maane Na"
+    ],
+    "difficulty": "easy",
+    "hint": "A lively party song from Yeh Jawaani Hai Deewani.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "🎨 🌈 💦 💃",
+    "answer": "Balam Pichkari",
+    "acceptedAnswers": [
+      "Balam Pichkari",
+      "Balam Pichkari song",
+      "Balam Pichkari Jo Tune Mujhe Maari"
+    ],
+    "difficulty": "easy",
+    "hint": "The famous Holi song from Yeh Jawaani Hai Deewani.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "🕶️ 😎 💃 🕺",
+    "answer": "Kala Chashma",
+    "acceptedAnswers": [
+      "Kala Chashma",
+      "Kaala Chashma",
+      "Kala Chashma song"
+    ],
+    "difficulty": "easy",
+    "hint": "A wedding dance hit from Baar Baar Dekho.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "👰 🥁 💃 🎊",
+    "answer": "London Thumakda",
+    "acceptedAnswers": [
+      "London Thumakda",
+      "London Thumakda song",
+      "London Thumakda wedding song"
+    ],
+    "difficulty": "easy",
+    "hint": "A wedding celebration song from Queen.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "🌧️ ❤️ 🏙️ 🎸",
+    "answer": "Galliyan",
+    "acceptedAnswers": [
+      "Galliyan",
+      "Galiyan",
+      "Galliyan song",
+      "Teri Galliyan"
+    ],
+    "difficulty": "easy",
+    "hint": "The romantic song from Ek Villain.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "😉 👁️ 💃 🕺",
+    "answer": "Aankh Marey",
+    "acceptedAnswers": [
+      "Aankh Marey",
+      "Aankh Maarey",
+      "Aankh Marey song"
+    ],
+    "difficulty": "easy",
+    "hint": "A party dance number from Simmba.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "🌊 🧡 🧣 ❤️",
+    "answer": "Gerua",
+    "acceptedAnswers": [
+      "Gerua",
+      "Rang De Tu Mohe Gerua",
+      "Gerua song",
+      "Dilwale Gerua"
+    ],
+    "difficulty": "easy",
+    "hint": "Shah Rukh Khan and Kajol in scenic locations in Dilwale.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "🕺 🥥 🕶️ 🎶",
+    "answer": "Lungi Dance",
+    "acceptedAnswers": [
+      "Lungi Dance",
+      "Lungi Dance song",
+      "Yo Yo Honey Singh Lungi Dance"
+    ],
+    "difficulty": "easy",
+    "hint": "A Honey Singh tribute to Rajinikanth in Chennai Express.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "🥁 🕺 💃 🎉",
+    "answer": "Mauja Hi Mauja",
+    "acceptedAnswers": [
+      "Mauja Hi Mauja",
+      "Mauja Hi Mauja song",
+      "Mauja Hi Mauja Jab We Met"
+    ],
+    "difficulty": "easy",
+    "hint": "An energetic dance song from Jab We Met.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "🌧️ 💛 💃 🔥",
+    "answer": "Tip Tip Barsa Paani",
+    "acceptedAnswers": [
+      "Tip Tip Barsa Paani",
+      "Tip Tip Barsa Pani",
+      "Tip Tip Barsa Paani song",
+      "Tip Tip"
+    ],
+    "difficulty": "easy",
+    "hint": "The iconic yellow-saree rain song.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "🇪🇸 💃 🍷 🌹",
+    "answer": "Senorita",
+    "acceptedAnswers": [
+      "Senorita",
+      "Señorita",
+      "Senorita song",
+      "ZNMD Senorita"
+    ],
+    "difficulty": "easy",
+    "hint": "The Spanish-style song sung by the three friends in Zindagi Na Milegi Dobara.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "🗽 🌅 ❤️ 😢",
+    "answer": "Kal Ho Naa Ho",
+    "acceptedAnswers": [
+      "Kal Ho Naa Ho",
+      "Kal Ho Na Ho",
+      "Kal Ho Naa Ho title song",
+      "KHNH song"
+    ],
+    "difficulty": "easy",
+    "hint": "The emotional title song from Kal Ho Naa Ho.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "🏆 🇮🇳 💃 🌍",
+    "answer": "Jai Ho",
+    "acceptedAnswers": [
+      "Jai Ho",
+      "Jai Ho song",
+      "Slumdog Millionaire Jai Ho"
+    ],
+    "difficulty": "easy",
+    "hint": "The Oscar-winning song from Slumdog Millionaire.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "🕶️ 🎧 💃 💥",
+    "answer": "Kar Gayi Chull",
+    "acceptedAnswers": [
+      "Kar Gayi Chull",
+      "Ladki Beautiful Kar Gayi Chull",
+      "Kar Gayi Chull song"
+    ],
+    "difficulty": "easy",
+    "hint": "A party hit from Kapoor & Sons.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "❄️ 🏔️ ❤️ 💃",
+    "answer": "Dil Diyan Gallan",
+    "acceptedAnswers": [
+      "Dil Diyan Gallan",
+      "Dil Diya Gallan",
+      "Dil Diyan Gallan song"
+    ],
+    "difficulty": "easy",
+    "hint": "A romantic song featuring Salman Khan and Katrina Kaif in snowy scenery.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "🧡 🌸 ❤️ 🎶",
+    "answer": "Kesariya",
+    "acceptedAnswers": [
+      "Kesariya",
+      "Kesariya song",
+      "Kesariya Tera Ishq Hai Piya",
+      "Brahmastra Kesariya"
+    ],
+    "difficulty": "easy",
+    "hint": "The popular romantic song from Brahmastra.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "☕ 💔 😢 🎹",
+    "answer": "Agar Tum Saath Ho",
+    "acceptedAnswers": [
+      "Agar Tum Saath Ho",
+      "Agar Tum Sath Ho",
+      "Agar Tum Saath Ho song"
+    ],
+    "difficulty": "easy",
+    "hint": "An emotional cafe scene from Tamasha.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "🎒 ✈️ 🌍 🎸",
+    "answer": "Ilahi",
+    "acceptedAnswers": [
+      "Ilahi",
+      "Ilahi song",
+      "Shaam Malang Si",
+      "YJHD Ilahi"
+    ],
+    "difficulty": "easy",
+    "hint": "A travel song from Yeh Jawaani Hai Deewani.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "🕌 🤲 🕊️ 🎶",
+    "answer": "Kun Faya Kun",
+    "acceptedAnswers": [
+      "Kun Faya Kun",
+      "Kun Faya Kun song",
+      "Kun Faaya Kun"
+    ],
+    "difficulty": "easy",
+    "hint": "A spiritual song from Rockstar.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "👀 ✨ ❤️ 🌃",
+    "answer": "Aankhon Mein Teri",
+    "acceptedAnswers": [
+      "Aankhon Mein Teri",
+      "Aankhon Mein Teri Ajab Si",
+      "Ajab Si",
+      "Om Shanti Om song"
+    ],
+    "difficulty": "easy",
+    "hint": "A romantic song from Om Shanti Om.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "🎓 ❤️ ☁️ 💫",
+    "answer": "Pehla Nasha",
+    "acceptedAnswers": [
+      "Pehla Nasha",
+      "Pehla Nasha song",
+      "Pehla Nasha Pehla Khumar"
+    ],
+    "difficulty": "easy",
+    "hint": "A dreamy first-love song from Jo Jeeta Wohi Sikandar.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "👀 🌹 ❤️ 🎶",
+    "answer": "Ek Ladki Ko Dekha",
+    "acceptedAnswers": [
+      "Ek Ladki Ko Dekha",
+      "Ek Ladki Ko Dekha To Aisa Laga",
+      "Ek Ladki Ko Dekha Toh Aisa Laga"
+    ],
+    "difficulty": "easy",
+    "hint": "A classic romantic song from 1942: A Love Story.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "🙏 ❤️ 👰 🌟",
+    "answer": "Tujh Mein Rab Dikhta Hai",
+    "acceptedAnswers": [
+      "Tujh Mein Rab Dikhta Hai",
+      "Tujh Mein Rab Dikhta Hai song",
+      "Rab Ne Bana Di Jodi song"
+    ],
+    "difficulty": "easy",
+    "hint": "A romantic song from Rab Ne Bana Di Jodi.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "❤️ 🌙 🎶 💫",
+    "answer": "Pee Loon",
+    "acceptedAnswers": [
+      "Pee Loon",
+      "Pee Loon song",
+      "Pee Loon Tere Neele Neele Naino Se"
+    ],
+    "difficulty": "easy",
+    "hint": "A romantic song from Once Upon a Time in Mumbaai.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "🏖️ 🎸 💪 ❤️",
+    "answer": "O O Jaane Jaana",
+    "acceptedAnswers": [
+      "O O Jaane Jaana",
+      "Oh Oh Jane Jaana",
+      "O O Jaane Jaana song",
+      "Pyaar Kiya To Darna Kya song"
+    ],
+    "difficulty": "easy",
+    "hint": "Salman Khan sings with a guitar on a beach.",
+    "isActive": true
+  },
+  {
+    "category": "bollywood_songs",
+    "clue": "💃 👂 ✨ 🎶",
+    "answer": "What Jhumka?",
+    "acceptedAnswers": [
+      "What Jhumka",
+      "What Jhumka?",
+      "What Jhumka song",
+      "Jhumka"
+    ],
+    "difficulty": "easy",
+    "hint": "A dance number from Rocky Aur Rani Kii Prem Kahaani.",
+    "isActive": true
+  }
+]

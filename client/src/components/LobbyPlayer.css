@@ -1,0 +1,95 @@
+.lobby-player-card {
+  background: var(--bg-card);
+  border: 2px solid var(--border-subtle);
+  border-radius: var(--radius-xl);
+  padding: 1.75rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  text-align: center;
+  transition: all var(--transition-normal);
+  flex: 1;
+}
+
+.lobby-player-card.ready {
+  border-color: var(--accent-green);
+  box-shadow: 0 0 25px rgba(16, 185, 129, 0.25);
+  background: linear-gradient(180deg, rgba(20, 36, 30, 0.8) 0%, rgba(15, 22, 36, 0.95) 100%);
+}
+
+.lobby-player-card.is-self {
+  border-color: var(--accent-purple);
+}
+
+.lobby-player-card.is-self.ready {
+  border-color: var(--accent-green);
+}
+
+.player-avatar-large {
+  font-size: 3rem;
+  background: var(--bg-secondary);
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid var(--border-subtle);
+}
+
+.player-username {
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  justify-content: center;
+}
+
+.you-tag {
+  font-size: 0.8rem;
+  color: var(--accent-cyan);
+  font-weight: 600;
+}
+
+.connection-badge {
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.connection-badge.online {
+  color: var(--accent-green);
+}
+
+.connection-badge.offline {
+  color: var(--accent-red);
+}
+
+.ready-status-box {
+  margin-top: 0.5rem;
+  width: 100%;
+}
+
+.ready-tag {
+  display: inline-block;
+  width: 100%;
+  padding: 0.6rem 1rem;
+  border-radius: var(--radius-md);
+  font-size: 0.95rem;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+}
+
+.ready-tag.ready-yes {
+  background: rgba(16, 185, 129, 0.2);
+  color: var(--accent-green);
+  border: 1px solid var(--accent-green);
+}
+
+.ready-tag.ready-no {
+  background: rgba(245, 158, 11, 0.1);
+  color: var(--accent-amber);
+  border: 1px solid rgba(245, 158, 11, 0.3);
+}
