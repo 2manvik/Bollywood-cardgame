@@ -34,6 +34,7 @@ const sendTokenResponse = (user, statusCode, res) => {
 // @access  Public
 const register = async (req, res, next) => {
   try {
+    console.log(req.body)
     const { username, email, password, confirmPassword } = req.body;
 
     if (!username || !email || !password || !confirmPassword) {
@@ -70,6 +71,7 @@ const register = async (req, res, next) => {
 
     if (existingUser) {
       if (existingUser.normalizedEmail === normalizedEmail) {
+        
         return res.status(409).json({ success: false, message: 'An account with this email already exists.' });
       }
       return res.status(409).json({ success: false, message: 'This username is already taken. Please choose another.' });

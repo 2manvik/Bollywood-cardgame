@@ -1,10 +1,12 @@
-const BASE_URL = '/api';
+const BASE_URL = 'http://localhost:5000/api';
 
 /**
  * Enhanced fetch wrapper with cookie credentials and auth header support
  */
 export async function apiFetch(endpoint, options = {}) {
   const url = `${BASE_URL}${endpoint}`;
+
+  console.log(url)
 
   const headers = {
     'Content-Type': 'application/json',
