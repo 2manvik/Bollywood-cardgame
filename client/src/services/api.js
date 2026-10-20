@@ -1,4 +1,4 @@
-const BASE_URL = 'https://bollywood-cardgame-2ftt.vercel.app/api';
+const BASE_URL = 'https://guess-it-25oo.onrender.com/api';
 
 /**
  * Enhanced fetch wrapper with cookie credentials and auth header support
